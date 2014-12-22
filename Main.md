@@ -8,14 +8,10 @@ The note is pre-paradigm, i.e. written just before the author has rigorously stu
 We write this note as a mathematician, foundational quantum physicist, and beginning computer scientist. Thus, the "realizable" ideas of AI here imply physics-mathematical realizability. This pre-paradigm work shall be compared to its post-paradigm counterpart, and the discrepancies be scrutinized, to see why some physically plausible ideas are in practice impossible, or vice versa.
 
 
-## Working Definition
-`Dec 2014`
+## Origin of this Work
+The idea first started in Summer 2014 at the Perimeter Institute for Theoretical Physics, when the author discussed the definition of intelligence with his colleagues. The discussion was influenced by their background in quantum physics and quantum information/computation. 
 
-We do not yet have a rigorous working definition of AI. However, as a preliminary, we assumed a flexible, vague idea of Artificial Intelligence; and do not yet attempt to define it rigorously, until the main idea has taken a sufficiently mature form.
-
-Currently, by AI we generally mean a sufficiently complete simulation of the human mind, i.e. an entity that can think, is conscious, and can deceive human beings (the Turing test). These are however dangerous words, and we shall not attempt to delve deeper.
-
-
+Later, when the author was delving in computer science and doing theoretical math, the idea came into mind: "Can a computer do proofs like a mathematician?" 
 
 
 ## Scratch
@@ -31,7 +27,15 @@ Are these what give us purposes? The sense of achievement, motivation, curiosity
 The development of a conscious, intelligent entity – must it require us treating it like evolutionary being?
 
 
-## Loose Definition
+
+## Working Definition
+`Dec 2014`
+
+We do not yet have a rigorous working definition of AI. However, as a preliminary, we assumed a flexible, vague idea of Artificial Intelligence; and do not yet attempt to define it rigorously, until the main idea has taken a sufficiently mature form.
+
+Currently, by AI we generally mean a sufficiently complete simulation of the human mind, i.e. an entity that can think, is conscious, and can deceive human beings (the Turing test). These are however dangerous words, and we shall not attempt to delve deeper.
+
+#### Loose Definition
 Artificial Intelligence is for now loosely defined as man-made entity which can mimic the functionality of a human brain, i.e. manifests `intelligence` and passes the Turing test, effectively deceiving humans. Shortly, to create an AI is to simulate a human mind. Note that we use computers and AI interchangeably, as once an AI is realized on a computer, we can update the definition of computers correspondingly.
 
 Whereas `intelligence` is defined as the ability to obtain, process and utilize information, then carry out strategies to achieve certain aims.
@@ -39,15 +43,11 @@ Whereas `intelligence` is defined as the ability to obtain, process and utilize 
 
 
 ## Feasibility Assumptions
-From the standpoint of physics, the human brain is an assemblage of highly ordered matter which can be reproduced if given a complete blueprint. The human brain shall be seen as a superset of the definition of computers that is more universal than the Universal Turing Machine. In principle, if one can sufficiently replicate the neuro-structure of the human brain, together with necessary input/output (perception/action) interface, then one can simulate a fully-functional human mind, i.e. intelligence.
+From the standpoint of physics, the human brain is an assemblage of highly ordered matter which can be reconstructed if given a complete blueprint. The human brain shall be seen as a superset of the definition of computers that is more universal than the Universal Turing Machine. In principle, if one can sufficiently replicate the neuro-structure of the human brain, together with necessary input/output (perception/action) interface, then one can simulate a fully-functional human mind, i.e. intelligence.
 
-It is intuitive that since the human brain, as all matters in the universe, obey the same physics, the application of these laws guarantees the feasibility of reproducing an intelligent, conscious entity. It is then up to us to reverse-engineer the human brain and its perceptual/actual extensions to obtain a blueprint for AI.
+It is intuitive that since the human brain, as all matters in the universe, obeys the same physics, the application of these laws guarantees the feasibility of reproducing an intelligent, conscious entity. It is then up to us to reverse-engineer the human brain and its perceptual/responsive extensions to obtain a blueprint for AI.
 
 
-## Origin of this Work
-The idea first started in Summer 2014 at the Perimeter Institute for Theoretical Physics, when the author discussed the definition of intelligence with his colleagues. The discussion was influenced by their background in quantum physics and quantum information/computation. 
-
-Later, when the author was delving in computer science and doing theoretical math, the idea came into mind: "Can a computer do proofs like a mathematician?" 
 
 #### The Difference between a Computer and a Human Mind
 
@@ -67,6 +67,8 @@ This was one of the first crucial ideas we encountered in a series of "disappoin
 1. Update to accommodate quantum randomness.
 2. Update to be complete and inconsistent.
 ```
+
+
 
 
 
@@ -109,7 +111,7 @@ Overall, we now have the hierarchy of possible ToC's, corresponding to different
 
 `classical-ToC < quantum-ToC < super-ToC`
 
-Overall, the hierarchy of theories now look like (letting C = classical physics, Q = quantum):
+Overall, the hierarchy of theories now look like (letting `C` = classical physics, `Q` = quantum):
 
 ` ToC < C < Q-ToC < Q < super-ToC < super-Q < math `
 
