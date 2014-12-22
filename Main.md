@@ -9,6 +9,8 @@ We write this note as a mathematician, foundational quantum physicist, and begin
 
 
 ## Origin of this Work
+`Dec 2014`
+
 The idea first started in Summer 2014 at the Perimeter Institute for Theoretical Physics, when the author discussed the definition of intelligence with his colleagues. The discussion was influenced by their background in quantum physics and quantum information/computation. 
 
 Later, when the author was delving in computer science and doing theoretical math, the idea came into mind: "Can a computer do proofs like a mathematician?" 
@@ -16,15 +18,37 @@ Later, when the author was delving in computer science and doing theoretical mat
 
 ## Scratch
 
-consciousness and autonomy
-
 The limitation/bound of Boolean-classical paradigm: AI impossible here as implied by Godel's Theorem
 
-Jack asked a vital question: why do we need feelings, and as we developed, why do they get richer and not the opposite?
+Consciousness and autonomy 
 
-Are these what give us purposes? The sense of achievement, motivation, curiosity etc. So is it necessary to simulate these hormone-chemical perceptions in AI too?
+As long as we stay in the Boolean - classical paradigm, creating an AI is impossible, by Gödel's Thm. 
+
+Jack asked a vital question: why do we need feelings, and as we developed, why do they get richer and not the opposite?
+Are these what give us purposes? The sense of achievement, motivation, curiosity etc. So is it necessary to stimulate these hormonal-chemical perceptions in AI too?
 
 The development of a conscious, intelligent entity – must it require us treating it like evolutionary being?
+
+Timescale: baby to mature mind
+Prehistoric to modern human
+Progressive enhancement, develop AI like develop human mind. Slowly encode and build up more complex thinking/feeling
+
+This batch of notes is written with ...background without much exposure to AI, i.e. Pre-paradigmatic.  We can observe how much of this would change after official study of AI
+
+Or notice how humans build the math. What ideas are necessary precursor to others. Also we tend to work from the complex, i.e. Simpler theorems are much harder, and takes longer time to proof.
+If one can build a super computer that's intelligent enough to start from scratch and re proof and rebuild all maths humans have done, and outpace us. 
+
+
+Reconciliation/error correction. Get several contradictory things and try to  optimize for most logically sound, least contradictory. Like how humans can recover from mistakes by inferencing from several external facts. 
+Doubt 
+More features of human thinking. 
+
+Paradigm 
+So to teach a being or a computer to think, whenever there's a thought there's a paradigm. Humans are bad at changing their paradigms, but if we can make computers change that quickly as needed, omg who knows what new theories they can invent. 
+
+
+
+
 
 
 
@@ -43,6 +67,8 @@ Whereas `intelligence` is defined as the ability to obtain, process and utilize 
 
 
 ## Feasibility Assumptions
+`Dec 2014`
+
 From the standpoint of physics, the human brain is an assemblage of highly ordered matter which can be reconstructed if given a complete blueprint. The human brain shall be seen as a superset of the definition of computers that is more universal than the Universal Turing Machine. In principle, if one can sufficiently replicate the neuro-structure of the human brain, together with necessary input/output (perception/action) interface, then one can simulate a fully-functional human mind, i.e. intelligence.
 
 It is intuitive that since the human brain, as all matters in the universe, obeys the same physics, the application of these laws guarantees the feasibility of reproducing an intelligent, conscious entity. It is then up to us to reverse-engineer the human brain and its perceptual/responsive extensions to obtain a blueprint for AI.
@@ -50,7 +76,6 @@ It is intuitive that since the human brain, as all matters in the universe, obey
 
 
 #### The Difference between a Computer and a Human Mind
-
 The gap between the capability of a computer and a functional human mind is too wide – computers are built of a simplistic model of logic and math, and are restricted by deterministic, macroscopic(classical) physical laws; whereas the human mind is capable of randomness and creativity, and is believe to operate on the level of quantum physics.
 
 As of this time, computers are defined through automata and the Universal Turing machine. On the surface, computers do calculations algorithmically; while human minds seem to operate with randomness and free will.
@@ -61,6 +86,8 @@ Therefore, think of how humans do math proofs, and try to classify the types of 
 
 
 ## Gödel's Incompleteness Theorem and the Limit of Computers
+`Dec 2014`
+
 This was one of the first crucial ideas we encountered in a series of "disappointing" discoveries on artificial intelligence. Closely related to the present model of computers, Gödel's Theorem of mathematical logic states that a theory cannot be both consistent and complete. In its common application to replicating the human mind, computers are consistent and therefore incomplete; whereas humans are inconsistent and thus incomplete. This underscores a fundamental difference between the nature of computers and humans. Thus, the next generalization/update of the definition of a computer shall resolve this incompatiblity: i.e. make computers inconsistent and complete. This gives us the first two criteria for a generalization of a computer:
 
 ```
@@ -141,7 +168,7 @@ Is human thinking classical? We are definitely hardwired by our experience in th
 
 What are some features of human thinking that are not classical? Our capability of randomness and free will immediately comes to mind. Is it also very fair to suspect that the innerworking of the human mind is purely quantum.
 
-The answer to this may come from the Human Connectome Project. Once we have successfully probed and simulate a complete human mind, the level of ToC required to do that will give us the answer.
+The answer to this may come from the Human Connectome Project. Once we have successfully probed and simulate a complete human mind, the level of ToC required to do that will give us the answer. However, by Godel's theorem, it is likely that our classical ToC would not be sufficient.
 
 
 This concludes our discussion on theoretical constraints.
