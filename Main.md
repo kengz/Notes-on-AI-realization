@@ -16,6 +16,10 @@ The idea first started in Summer 2014 at the Perimeter Institute for Theoretical
 Later, when the author was delving in computer science and doing theoretical math, the idea came into mind: "Can a computer do proofs like a mathematician?" 
 
 
+
+
+
+
 ## Scratch
 
 The limitation/bound of Boolean-classical paradigm: AI impossible here as implied by Godel's Theorem
@@ -50,9 +54,16 @@ So to teach a being or a computer to think, whenever there's a thought there's a
 
 
 
+| Chapters |
+|:---------|
+| *[Working Definition](#Working Definition)* |
+| *[Feasibility Assumptions](#Feasibility Assumptions)* |
+| *[Gödel's Incompleteness Theorem and the Limit of Computers](#Godel)* |
+| *[The Theoretical Constraints](#The Theoretical Constraints)* |
 
 
-## Working Definition
+
+## <a name="Working Definition"></a>Working Definition
 `Dec 2014`
 
 We do not yet have a rigorous working definition of AI. However, as a preliminary, we assumed a flexible, vague idea of Artificial Intelligence; and do not yet attempt to define it rigorously, until the main idea has taken a sufficiently mature form.
@@ -66,7 +77,7 @@ Whereas `intelligence` is defined as the ability to obtain, process and utilize 
 
 
 
-## Feasibility Assumptions
+## <a name="Feasibility Assumptions"></a>Feasibility Assumptions
 `Dec 2014`
 
 From the standpoint of physics, the human brain is an assemblage of highly ordered matter which can be reconstructed if given a complete blueprint. The human brain shall be seen as a superset of the definition of computers that is more universal than the Universal Turing Machine. In principle, if one can sufficiently replicate the neuro-structure of the human brain, together with necessary input/output (perception/action) interface, then one can simulate a fully-functional human mind, i.e. intelligence.
@@ -85,7 +96,7 @@ Consider the next generalization of computers by this: when is a human's thinkin
 Therefore, think of how humans do math proofs, and try to classify the types of proofs/theories can and cannot be done by computers. Gödel's theorem immediately comes up.
 
 
-## Gödel's Incompleteness Theorem and the Limit of Computers
+## <a name="Godel"></a>Gödel's Incompleteness Theorem and the Limit of Computers
 `Dec 2014`
 
 This was one of the first crucial ideas we encountered in a series of "disappointing" discoveries on artificial intelligence. Closely related to the present model of computers, Gödel's Theorem of mathematical logic states that a theory cannot be both consistent and complete. In its common application to replicating the human mind, computers are consistent and therefore incomplete; whereas humans are inconsistent and thus incomplete. This underscores a fundamental difference between the nature of computers and humans. Thus, the next generalization/update of the definition of a computer shall resolve this incompatiblity: i.e. make computers inconsistent and complete. This gives us the first two criteria for a generalization of a computer:
@@ -99,7 +110,7 @@ This was one of the first crucial ideas we encountered in a series of "disappoin
 
 
 
-## The Theoretical Constraints
+## <a name="The Theoretical Constraints"></a>The Theoretical Constraints
 `Dec 2014`
 
 We discuss the theoretic constraints of modern computers from the view point of Computation theory, our research of super-theories at Perimeter Institute, and some inference from Godel's Incompleteness Theorem.
