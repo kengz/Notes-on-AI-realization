@@ -1,82 +1,19 @@
 # Notes on AI realization (pre-paradigm)
-*This is Keng's personal notes on essential ideas to realize AI, from the perspective of Computer Science, Quantum Physics, Mathematics and Philosophy.*
-
 `Dec 2014`
 
-As preliminary, we assumed a flexible, vague idea of Artificial Intelligence; and do not yet attempt to define it rigorously, until the main idea has taken a sufficiently mature form.
+This is Keng's personal note on the essential ideas to realize AI, from the perspective of Computer Science, Quantum Physics, Mathematics and Philosophy.
+
+The note is pre-paradigm, i.e. written just before the author has rigorously studied the subject and adopted the paradigm of the field. This is so that the author have a chance to ponder before conforming to the conventional way of thinking about the subject. 
+
+We write this note as a mathematician, foundational quantum physicist, and beginning computer scientist. Thus, the "realizable" ideas of AI here imply physics-mathematical realizability. This pre-paradigm work shall be compared to its post-paradigm counterpart, and the discrepancies be scrutinized, to see why some physically plausible ideas are in practice impossible, or vice versa.
 
 
+## Working Definition
+`Dec 2014`
 
-## The Theoretical Constraints
-We discuss the theoretic constraints of modern computers from the view point of Computation theory, our research of super-theories at Perimeter Institute, and some inference on Godel's Incompleteness Theorem.
+We do not yet have a rigorous working definition of AI. However, as a preliminary, we assumed a flexible, vague idea of Artificial Intelligence; and do not yet attempt to define it rigorously, until the main idea has taken a sufficiently mature form.
 
-The modern theory of computation (abbreviated ToC) is founded on the paradigms of Finite Automata/Universal Turing Machine and Shannon's Information theory, both of which are classical – as in classical, non-quantum physical.
-
-
-#### Hierarchy of Theories
-Now we study ToC as a theory, outline its relations with more general theories, see where it stands, and where can we go next. When we study theories, we study their scopes and limits. For any theory, call it *A*, its sub-theory *inf-A* (for *infimum-A*) is a smaller subset often more limited in scope, is a branch, is an application, is a cruder approximation. For example, Newtonian mechanics is a sub-theory of Einstein's Relativity.
-
-Likewise, the super-theory *sup-A* (or *supremum-A*) is a more general theory which contains *A*, and perhaps more. It is more general, refined and precise. For example, quantum theory is super-classical; by decoherence it reduces to the cruder, macroscopic classical approximation. It also has non-classical aspects – entanglement.
-
-Going back to ToC, it is a sub-theory of classical physics and mathematics. In short, we build computers by applying physics and exploiting properties of matter, to effectively simulate a UTM that behaves consistently with boolean logic.
-
-One can more carefully reorder the hierarchy and see ToC as a sub-theory of classical physics, and classical physics a sub-theory of mathematics. We view mathematics as the ancestral-super-theory, i.e. all physical theories ultimately is a subset of it. We argue this is justified despite the seeming fact that physics is drawn upon not only math, but also the a-priory laws of nature. However, all physical theories are applications of mathematics, and this is increasingly clear as efforts at Perimeter Institute and elsewhere are underway to rewrite the foundations of physics with complete math-rigor.
-
-
-#### New Physics, New ToC
-
-Computers are built by the application of physics, or more specifically, classical physics. The physics employed gives the power, and imposes physical limitations. That is to say a physics gives rise to a ToC – imagine in a parallel universe where the physical laws are different; the inhabitants would build their own different computers that adhere to their physics.
-
-The idea that new physics can give rise to new ToC may be foreign to many; it is only because the computers haven't existed long enough to experience paradigm changes in physics. Therefore, we are still stuck with version 1.0 of the computer.
-
-However, the first revolution is coming – computers lived through the advent of quantum physics. It didn't take long before people realized one could do computation using quantum physics. What followed was quantum computation-information theory – the new ToC, or computer 2.0. We shall call it quantum-ToC. There is still much to be done, and people are still trying to fully understand it.
-
-Some claim that quantum computers will not be starkly different from the classical ones, and its potential may only be in some very specific applications such as factoring problems. Well, this isn't really that surprising. Quantum physics isn't too different from classical physics either, at least from the standpoint of quantum foundations.
-
-Quantum foundations, as the name tells, is the study of the foundations of quantum physics. Our group at Perimeter Institute tackles it from a rather interesting perspective: quantum computations. Instead of doing ToC using physics, we use ToC to do physics. The main subject is correlations, which is used to study the scopes and limits of classical, quantum and even post-quantum physics using bits constructed in these paradigms. The foundational framework was correlation theory and general causal theory, built primarily by Tobias Fritz and Matthew Pusey.
-
-In our work, we realized the difficulty in distinguishing between classical and quantum physics. In fact, there is only very few known correlations that are purely-quantum, non-classical.
-
-#### Hierarchy of ToC's
-The study of correlation using general bits also hints at the possibility of a super-quantum theory – theory more general than quantum physics. This may then supply a new physics for computer 3.0, or super-ToC.
-
-Overall, we now have the hierarchy of possible ToC's, corresponding to different physical theories:
-
-`classical-ToC < quantum-ToC < super-ToC`
-
-Overall, the hierarchy of theories now look like (letting C = classical physics, Q = quantum):
-
-` ToC < C < Q-ToC < Q < super-ToC < super-Q < math `
-
-
-#### The Completeness Criterion
-Human mind included in a theory, then can.
-Godel's Incompleteness Theorem provides a crucial test to the scope of any theory, i.e. a theory is either complete or consistent, but never both. Most critically, it allows us to tell if a theory is general enough to account for the functioning of the human mind.
-
-The criteria lies in completeness – humans make mistakes, thus are inconsistent, hence are complete. Modern computers are the opposite; they follow strict machine logic, thus are consistent and incomplete. This hints that we are still a long way from a ToC that can effectively simulate a human mind – call it the human-ToC. Perhaps it should better be called a ToT, Theory of Thinking. However the task at hand is to generalize the modern definition of computation, thus the name stays.
-
-Godel's theorem therefore provides a criterion for the human-ToC we want – it must be complete (thus inconsistent). Going back to the hierarchy of ToC's above, it implies this super theory must be general enough to include the human mind as a sub-theory. We are not sure if human-ToC will lie between super-Q and Math, or beyond Math.
-
-`...super-Q < human-ToC < math` or `super-Q < math < human-ToC`
-
-We make a remark regarding placing human-ToC as beyond super-quantum.
-Principle of correspondence. Human brain in reality obeys the true physical laws, must be post quantum (note includes classical and quantum, but not sure if theres feature not in these)
-
-
-In our study of correlations, there exists a lot of super-quantum correlations, and also potentially many general super-quantum theories. Our method is by constructing classes of setups within the limitations of a theory to prove or disprove the inclusion of a correlation by the theory. For example, the Bell's correlation can be proven to be outside of classical theory, and realizable within quantum theory, because the quantum setups employ entanglement – its non-classical feature. 
-
-Here's an idea we haven't rigorously tried – for the super-quantum correlations, instead of using quantum bits in the setups, we can try `using humans`. If humans can account for some super-quantum correlations, this would be a major leap. However as of know we do not clearly know what even does "using humans" for the setup mean. This is an interesting topic for future exploration.
-
-This concludes our illustration on theoretical constraints.
-
-
-
-
-
-Godel's
-completeness of a theory. super theories
-twist: paradox correlations: try to put human instead of boxes
-is human thinking classical? or there's something fundamentally quantum that enables us to think the way we do: capable of randomness, creativity? Because in QI research way we think is very classical, seemed to be wired that way
+Currently, by AI we generally mean a sufficiently complete simulation of the human mind, i.e. an entity that can think, is conscious, and can deceive human beings (the Turing test). These are however dangerous words, and we shall not attempt to delve deeper.
 
 
 
@@ -131,6 +68,81 @@ This was one of the first crucial ideas we encountered in a series of "disappoin
 2. Update to be complete and inconsistent.
 ```
 
+
+
+## The Theoretical Constraints
+`Dec 2014`
+
+We discuss the theoretic constraints of modern computers from the view point of Computation theory, our research of super-theories at Perimeter Institute, and some inference from Godel's Incompleteness Theorem.
+
+The modern theory of computation (abbreviated ToC) is founded on the paradigms of Finite Automata/Universal Turing Machine and Shannon's Information theory, both of which are classical – as in classical, non-quantum physical.
+
+
+#### Hierarchy of Theories
+Now we study ToC as a theory, outline its relations with more general theories, see where it stands, and where can we go next. When we study theories, we study their scopes and limits. For any theory, call it *A*, its sub-theory *inf-A* (for *infimum-A*) is a smaller subset often more limited in scope, is a branch, is an application, is a cruder approximation. For example, Newtonian mechanics is a sub-theory of Einstein's Relativity.
+
+Likewise, the super-theory *sup-A* (or *supremum-A*) is a more general theory which contains *A*, and perhaps more. It is more general, refined and precise. For example, quantum theory is super-classical; by decoherence it reduces to the cruder, macroscopic classical approximation. It also has non-classical aspects – entanglement.
+
+Going back to ToC, it is a sub-theory of classical physics and mathematics. In short, we build computers by applying physics and exploiting properties of matter, to effectively simulate a UTM that behaves consistently with boolean logic.
+
+One can more carefully reorder the hierarchy and see ToC as a sub-theory of classical physics, and classical physics a sub-theory of mathematics. We view mathematics as the ancestral-super-theory, i.e. all physical theories ultimately is a subset of it. We argue this is justified despite the seeming fact that physics is drawn upon not only math, but also the a-priory laws of nature. However, all physical theories are applications of mathematics, and this is increasingly clear as efforts at Perimeter Institute and elsewhere are underway to rewrite the foundations of physics with complete math-rigor.
+
+
+#### New Physics, New ToC
+
+Computers are built by the application of physics, or more specifically, classical physics. The physics employed gives the power, and imposes physical limitations. That is to say a physics gives rise to a ToC – imagine in a parallel universe where the physical laws are different; the inhabitants would build their own different computers that adhere to their physics.
+
+The idea that new physics can give rise to new ToC may be foreign to many; it is only because the computers haven't existed long enough to experience paradigm changes in physics. Therefore, we are still stuck with version 1.0 of the computer.
+
+However, the first revolution is coming – computers lived through the advent of quantum physics. It didn't take long before people realized one could do computation using quantum physics. What followed was quantum computation-information theory – the new ToC, or computer 2.0. We shall call it quantum-ToC. There is still much to be done, and people are still trying to fully understand it.
+
+Some claim that quantum computers will not be starkly different from the classical ones, and its potential may only be in some very specific applications such as factoring problems. Well, this isn't really that surprising. Quantum physics isn't too different from classical physics either, at least from the standpoint of quantum foundations.
+
+Quantum foundations, as the name tells, is the study of the foundations of quantum physics. Our group at Perimeter Institute tackles it from a rather interesting perspective: quantum computations. Instead of doing ToC using physics, we use ToC to do physics. The main subject is correlations, which is used to study the scopes and limits of classical, quantum and even post-quantum physics using bits constructed in these paradigms. The foundational framework was correlation theory and general causal theory, built primarily by Tobias Fritz and Matthew Pusey.
+
+In our work, we realized the difficulty in distinguishing between classical and quantum physics. In fact, there is only very few known correlations that are purely-quantum, non-classical.
+
+#### Hierarchy of ToC's
+The study of correlation using general bits also hints at the possibility of a super-quantum theory – theory more general than quantum physics. This may then supply a new physics for computer 3.0, or super-ToC.
+
+Overall, we now have the hierarchy of possible ToC's, corresponding to different physical theories:
+
+`classical-ToC < quantum-ToC < super-ToC`
+
+Overall, the hierarchy of theories now look like (letting C = classical physics, Q = quantum):
+
+` ToC < C < Q-ToC < Q < super-ToC < super-Q < math `
+
+Furthermore, we can assume there exists a complete physical theory that can fully and consistently describe the whole universe. This is the "completeness" of a physical theory. Whatever this final complete theory is, it is a strict super set of quantum theory, as we know that quantum theory is still incomplete, and inconsistent with general relativity.
+
+
+#### The Completeness Criterion
+Godel's Incompleteness Theorem provides a crucial test to the scope of any theory, i.e. a theory is either complete or consistent, but never both. Most critically, it allows us to tell if a theory is general enough to account for the functioning of the human mind.
+
+The criteria lies in completeness – humans make mistakes, thus are inconsistent, hence are complete. Modern computers are the opposite; they follow strict machine logic, thus are consistent and incomplete. This hints that we are still a long way from a ToC that can effectively simulate a human mind – call it the human-ToC. Perhaps it should better be called a ToT, Theory of Thinking. However the task at hand is to generalize the modern definition of computation, thus the name stays.
+
+Godel's theorem therefore provides a criterion for the human-ToC we want – it must be complete (thus inconsistent). Going back to the hierarchy of ToC's above, it implies this super theory must be general enough to include the human mind as a sub-theory. We are not sure if human-ToC will lie between super-Q and Math, or beyond Math.
+
+`super-Q < human-ToC < math` or `super-Q < math < human-ToC`
+
+We make a remark regarding placing human-ToC as beyond super-quantum. Human brain is part of the physical world, and must therefore obey the true physical laws described by some complete physical theory. So, we can derive a ToC (theory of mind) off this complete theory, and this shall enable us to realize AI. Given that, the next natural step is to discover this super theory.
+
+In our study of correlations, there exists a lot of super-quantum correlations, and thus potentially many general super-quantum theories. Our method is by constructing classes of setups within the limitations of a theory to prove or disprove the inclusion of a correlation by the theory. For example, the Bell's correlation can be proven to be outside of classical theory, and realizable within quantum theory, because the quantum setups employ entanglement – its non-classical feature. 
+
+Here's an idea we haven't rigorously tried – for the super-quantum correlations, instead of using quantum bits in the setups, we can try `using humans`. If humans can account for some super-quantum correlations, this would be a major leap. However as of know we do not clearly know what even does "using humans" for the setup mean. This is an interesting topic for future exploration.
+
+
+#### How close to completion is our ToC?
+Is our ToC complete enough to realize AI? Since by AI we mean a sufficient simulation of the human mind, we can ask if our ToC can describe the human mind.
+
+Is human thinking classical? We are definitely hardwired by our experience in the macro world to form some strong classical intuition. We think very classically; this is why quantum physics is so hard for us. 
+
+What are some features of human thinking that are not classical? Our capability of randomness and free will immediately comes to mind. Is it also very fair to suspect that the innerworking of the human mind is purely quantum.
+
+The answer to this may come from the Human Connectome Project. Once we have successfully probed and simulate a complete human mind, the level of ToC required to do that will give us the answer.
+
+
+This concludes our discussion on theoretical constraints.
 
 
 
