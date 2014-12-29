@@ -22,6 +22,8 @@ Later, when the author was delving in computer science and doing theoretical mat
 
 ## Scratch
 
+new section: post-C human features, as inspiration to what the super-ToC shd have.
+
 The limitation/bound of Boolean-classical paradigm: AI impossible here as implied by Godel's Theorem
 
 Consciousness and autonomy 
@@ -37,7 +39,6 @@ Timescale: baby to mature mind
 Prehistoric to modern human
 Progressive enhancement, develop AI like develop human mind. Slowly encode and build up more complex thinking/feeling
 
-This batch of notes is written with ...background without much exposure to AI, i.e. Pre-paradigmatic.  We can observe how much of this would change after official study of AI
 
 Or notice how humans build the math. What ideas are necessary precursor to others. Also we tend to work from the complex, i.e. Simpler theorems are much harder, and takes longer time to proof.
 If one can build a super computer that's intelligent enough to start from scratch and re proof and rebuild all maths humans have done, and outpace us. 
@@ -103,7 +104,7 @@ This was one of the first crucial ideas we encountered in a series of "disappoin
 
 ```
 1. Update to accommodate quantum randomness.
-2. Update to be complete and inconsistent.
+2. Update to be complete and inconsistent in the Godel sense.
 ```
 
 
@@ -177,12 +178,56 @@ Is our ToC complete enough to realize AI? Since by AI we mean a sufficient simul
 
 Is human thinking classical? We are definitely hardwired by our experience in the macro world to form some strong classical intuition. We think very classically; this is why quantum physics is so hard for us. 
 
-What are some features of human thinking that are not classical? Our capability of randomness and free will immediately comes to mind. Is it also very fair to suspect that the innerworking of the human mind is purely quantum.
+What are some features of human thinking that are not classical? Our capability of randomness and free will immediately comes to mind. Certainly, we are unlike clockwork that runs deterministically on classical laws – that is free will; in fact, we can break off any classical trajectory as we wish – that is pure randomness. Is it also very fair to suspect that the innerworking of the human mind is purely quantum.
 
 The answer to this may come from the Human Connectome Project. Once we have successfully probed and simulate a complete human mind, the level of ToC required to do that will give us the answer. However, by Godel's theorem, it is likely that our classical ToC would not be sufficient.
 
 
 This concludes our discussion on theoretical constraints.
+
+
+
+
+## Post-Classical Human Features
+We enumerate the possible human features that are post-classical, i.e. those that cannot be accounted for by classical physics and its ToC. These shall be some inspirations for what the super-ToC should encompass.
+
+#### Ability to do math proofs (some types)
+especially, dealing with infinities.
+Out of the context of computable, decidable, halting problems.
+
+#### More generally, ability to think, whatever it means
+
+
+
+#### Randomness (pure randomness, manifest of quantum physics)
+
+#### Gödel's Completeness and Inconsistency
+non-literal as machines
+
+
+dangerous terrain:
+#### Consciousness and Free Will (Autonomy)
+
+#### Feelings
+synonymous with consciousness?
+Consciousness => emotions
+Converse may be false?
+test for consciousness: put subject in front of the mirror; test for self identification.
+
+
+#### Creativity and Idea Synthesis; idea-Mutation
+
+#### Ability to adapt and evolve (reconciliation and error correction)
+
+
+
+
+
+from the standpoint of information theory ?
+
+`What else are indispensable?:`
+#### I/O: perception
+#### feelings
 
 
 
