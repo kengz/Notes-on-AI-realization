@@ -22,6 +22,10 @@ Later, when the author was delving in computer science and doing theoretical mat
 
 ## Scratch
 
+mutation theory: humans are not literal because we are flexible – we can mutate information.
+
+what is language? a set of protocols for exchanging information?
+
 new section: post-C human features, as inspiration to what the super-ToC shd have.
 
 The limitation/bound of Boolean-classical paradigm: AI impossible here as implied by Godel's Theorem
@@ -143,10 +147,10 @@ Quantum foundations, as the name tells, is the study of the foundations of quant
 
 In our work, we realized the difficulty in distinguishing between classical and quantum physics. In fact, there is only very few known correlations that are purely-quantum, non-classical.
 
-#### Hierarchy of ToC's
+#### Hierarchy of ToCs
 The study of correlation using general bits also hints at the possibility of a super-quantum theory – theory more general than quantum physics. This may then supply a new physics for computer 3.0, or super-ToC.
 
-Overall, we now have the hierarchy of possible ToC's, corresponding to different physical theories:
+Overall, we now have the hierarchy of possible ToCs, corresponding to different physical theories:
 
 `classical-ToC < quantum-ToC < super-ToC`
 
@@ -162,7 +166,7 @@ Godel's Incompleteness Theorem provides a crucial test to the scope of any theor
 
 The criteria lies in completeness – humans make mistakes, thus are inconsistent, hence are complete. Modern computers are the opposite; they follow strict machine logic, thus are consistent and incomplete. This hints that we are still a long way from a ToC that can effectively simulate a human mind – call it the human-ToC. Perhaps it should better be called a ToT, Theory of Thinking. However the task at hand is to generalize the modern definition of computation, thus the name stays.
 
-Godel's theorem therefore provides a criterion for the human-ToC we want – it must be complete (thus inconsistent). Going back to the hierarchy of ToC's above, it implies this super theory must be general enough to include the human mind as a sub-theory. We are not sure if human-ToC will lie between super-Q and Math, or beyond Math.
+Godel's theorem therefore provides a criterion for the human-ToC we want – it must be complete (thus inconsistent). Going back to the hierarchy of ToCs above, it implies this super theory must be general enough to include the human mind as a sub-theory. We are not sure if human-ToC will lie between super-Q and Math, or beyond Math.
 
 `super-Q < human-ToC < math` or `super-Q < math < human-ToC`
 
@@ -215,10 +219,10 @@ Converse may be false?
 test for consciousness: put subject in front of the mirror; test for self identification.
 
 
-#### Creativity and Idea Synthesis; idea-Mutation
+#### Creativity and Idea Synthesis; idea-Mutation:
+need a mutation theory??
 
 #### Ability to adapt and evolve (reconciliation and error correction)
-
 
 
 
@@ -230,6 +234,20 @@ from the standpoint of information theory ?
 #### feelings
 
 
+
+
+
+
+## Questioning the completeness
+Questioning the completeness of the mathematical paradigm:
+i.e. is Math complete for achieving our purpose – all of our treatments employ math and thus are confined within the paradigm.
+Is math the ultimate complete system needed to describe the occurences in the universe, including the human mind?
+Physics shows this to be likely the case: If math completely describes all of the universe, it shall too describe its constituents either as sub theories.
+
+Conjecture thus relies on the completeness of physical theory, and Math is bigger than physics.
+
+Or if not, proof by contradiction:
+Name a thing that cannot be mathematically formalized, and prove so. question too ambiguous.
 
 
 
