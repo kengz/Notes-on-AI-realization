@@ -22,6 +22,26 @@ Later, when the author was delving in computer science and doing theoretical mat
 
 ## Scratch
 
+Pain and the foundation of fear 
+
+Evolutionary instincts
+
+Paradigm breaking: how should AI do it?
+
+Stimuli dampening for AI
+
+
+Many aspects of the human mind evolves from natural selection, and sexual activities, ie to attract mates and procreate. 
+
+Let AI play games
+Jenga
+Recoverable memory 
+Bootstrap
+
+Humanly things:
+Believe and hope - religion
+
+
 mutation theory: humans are not literal because we are flexible – we can mutate information.
 
 what is language? a set of protocols for exchanging information?
@@ -232,8 +252,6 @@ from the standpoint of information theory ?
 `What else are indispensable?:`
 #### I/O: perception
 #### feelings
-
-
 
 
 
